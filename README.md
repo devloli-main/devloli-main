@@ -21,3 +21,9 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devloli-main&layout=compact&theme=tokyonight&hide_border=true)
 </div>
+
+<div id="gif" align="center">
+  <a href="" target="_blank">
+    <img src="https://pa1.narvii.com/6352/d99071f792d67df51893558d6de091348c32d4ee_hq.gif" alt=""/>
+  </a>
+</div>
