@@ -17,7 +17,5 @@
 ## Github Stats
 <div id="Stats-g" align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devloli-main&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devloli-main&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devloli-main&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devloli-main&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devloli-main&show_icons=true&theme=tokyonight&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devloli-main&layout=compact&theme=tokyonight&hide_border=true)
 </div>
